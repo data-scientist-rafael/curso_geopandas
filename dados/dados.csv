@@ -1,6 +1,6 @@
 Area	Bairro	Cidade	Endereco	Estado	Latitude	Longitude	Quartos	Suites	Vagas	Tipo	Transacao	Valor
 138	Recreio dos Bandeirantes	Rio de Janeiro	Rua Vicente Scofano	RJ	-23.0164552	-43.4629464	3	1	3	Apartamento	Venda	1095000
-133	Freguesia (Jacarepaguá)	Rio de Janeiro	Rua Potiguara	RJ	-22.9431995	-43.3369111	3	1	2	Apartamento	Venda	650000
+133	Freguesia	Rio de Janeiro	Rua Potiguara	RJ	-22.9431995	-43.3369111	3	1	2	Apartamento	Venda	650000
 46	Pilares	Rio de Janeiro	Rua Professor Carneiro Felipe	RJ	-22.873849	-43.300517	1	0	0	Apartamento	Venda	150000
 65	Barra da Tijuca	Rio de Janeiro	Avenida Salvador Allende	RJ	-22.9847874	-43.4127033	2	1	1	Apartamento	Venda	430000
 85	Gávea	Rio de Janeiro	Rua Marquês de São Vicente	RJ	-14.235004	-51.92528	2	1	2	Apartamento	Venda	1800000
@@ -667,7 +667,7 @@ Area	Bairro	Cidade	Endereco	Estado	Latitude	Longitude	Quartos	Suites	Vagas	Tipo	
 74	Barra da Tijuca	Rio de Janeiro	Avenida Flamboyants da Península	RJ	-22.990557	-43.351795	2	1	1	Apartamento	Venda	725000
 385	Flamengo	Rio de Janeiro	Rua Senador Vergueiro	RJ	-22.9378576	-43.1761425	5	1	1	Apartamento	Venda	2950000
 127	Leblon	Rio de Janeiro	Avenida Ataulfo de Paiva	RJ	-22.9834207	-43.2171868	3	1	1	Apartamento	Venda	2199000
-70	Cachambi	Rio de Janeiro	Rua Ferreira de Andrade( 1 Ano de Condominio Gratis e Armarios de Primeira,  So Aqui)  	RJ	-22.8913281	-43.2712867	2	1	1	Apartamento	Venda	399000
+70	Cachambi	Rio de Janeiro	Rua Ferreira de Andrade RJ	-22.8913281	-43.2712867	2	1	1	Apartamento	Venda	399000
 160	Barra da Tijuca	Rio de Janeiro	Avenida Lúcio Costa	RJ	-23.0100196	-43.3669841	3	1	2	Apartamento	Venda	1790000
 43	Copacabana	Rio de Janeiro	Rua Ministro Viveiros de Castro	RJ	-22.9640812	-43.1765984	1	1	0	Apartamento	Venda	500000
 95	Copacabana	Rio de Janeiro	Rua Sá Ferreira	RJ	-22.9820688	-43.1953302	3	1	1	Apartamento	Venda	1050000
